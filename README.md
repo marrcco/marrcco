@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @marrcco
-- 👀 I’m interested in Data Science and coffee!
+- 👋 Hi, I’m Marko!
+- 👀 Here you can see cool Data Science projects.
 - 🌱 I’m currently working at Better Collective as a Data Analyst.
 - 📫 You can reach me on my LinkedIn or by email.
 
