@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marko!
 - 👀 Here you can see cool Data Science projects.
-- 🌱 I’m currently working at Better Collective as a Data Analyst.
+- 🌱 I’m currently working at Better Collective as a Data Engineer.
 - 📫 You can reach me on my LinkedIn or by email.
 
 <!---
